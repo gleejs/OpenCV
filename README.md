@@ -28,6 +28,7 @@ https://github.com/skvark/opencv-python/issues/114
 https://docs.python-guide.org/dev/virtualenvs/
 
 issue with scikit-image
+
 https://stackoverflow.com/questions/48338013/dll-error-while-importing-the-python-imaging-library
 
 https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/
