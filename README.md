@@ -14,10 +14,20 @@ pip install opencv-python==3.4.1.15
 
 pip install opencv-contrib-python==3.4.1.15
 
+
+issue with scikit-image
+
+pip install pillow==4.0.0
+
+pip install scikit-image
+
+
 Appendix.
 
 https://github.com/skvark/opencv-python/issues/114
 https://docs.python-guide.org/dev/virtualenvs/
+
+https://stackoverflow.com/questions/48338013/dll-error-while-importing-the-python-imaging-library
 
 
 
