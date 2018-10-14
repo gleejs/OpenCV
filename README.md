@@ -11,6 +11,7 @@ If you want to install virtualenv
 pip install virtualenv virtualenvwrapper
 
 pip install opencv-python==3.4.1.15
+
 pip install opencv-contrib-python==3.4.1.15
 
 Appendix.
